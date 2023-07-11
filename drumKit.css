@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(40, 36, 36);
+}
+
+
+#title{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+.set{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.drum{
+    border: 5px solid rgb(164, 28, 28);
+    margin: 20px;
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    color: red;
+    font-weight: 700;
+}
+
+.drum:hover{
+    transform: scale(1.1);
+    transition-duration: 0.9s;
+}
+
+.w{
+    background-image: url('./download\ \(1\).jfif');
+    background-size: cover;
+}
+.a{
+    background-image: url('./download.jfif');
+    background-size: cover;
+}
+.s{
+    background-image: url('./download\ \(2\).jfif');
+    background-size: cover;
+}
+.d{
+    background-image: url('./download\ \(3\).jfif');
+    background-size: cover;
+}
+.j{
+    background-image: url('./download\ \(4\).jfif');
+    background-size: cover;
+}
+.k{
+    background-image: url('./download\ \(5\).jfif');
+    background-size: cover;
+}
+.l{
+    background-image: url('.//images.jfif');
+    background-size: cover;
+}
+
+
+
+
